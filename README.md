@@ -1,3 +1,3 @@
-MySql Commands Lists
+𝐌𝐲𝐒𝐪𝐥 𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐋𝐢𝐬𝐭𝐬
 <br>
-Author : Anant Soni
+𝐀𝐮𝐭𝐡𝐨𝐫 : 𝐀𝐧𝐚𝐧𝐭 𝐒𝐨𝐧𝐢
